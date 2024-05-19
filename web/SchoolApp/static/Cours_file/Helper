@@ -1,0 +1,18 @@
+Raccourcis pour changer la disposition du clavier
+    -->FR==windows+espace 
+    -->US==ctrl+espace
+    
+Raccourcis pour changer de bureau(qui vont de 1 a 5 )
+    -->alt+num ==pour se placer au bureau numero num
+    -->ctrl+num ==pour deplaer une fenetre sue le bureau num
+    
+    
+    
+Mes scripts personnalises
+	***la plus part se trouve dans le repertoire ~/scrips ,__ sont ignores
+		-e__:pour fermer toutes les instances du terminal qui sont actuellement ouvert
+		-ll__:pour lister en une colonne le contenu du repertoire courant
+		-server__:pour lancer le server web xampp
+		-stop_server__:pour arreter le server web
+		-run_mariadb__:pour demarrer le server db de maria
+		-stop_mariadb__:pour arrreter le server
